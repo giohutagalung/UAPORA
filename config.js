@@ -1,6 +1,6 @@
 /* Konfigurasi UAPORA. Ganti dengan tautan Google Form yang sebenarnya setelah formulir siap. */
 window.UAPORA_CONFIG = {
-  GOOGLE_FORM_URL: "https://forms.gle/KPo2FZepLCxbPopAA",
+  GOOGLE_FORM_URL: "https://forms.gle/xgQBNex4bXWYCo5J8",
   MAX_TOPPINGS: 2,
   ingredients: {
     gurih: [
